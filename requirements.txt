@@ -1,0 +1,4 @@
+orjson
+uvicorn[standard]
+fastapi
+py7zr
