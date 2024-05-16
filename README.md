@@ -9,3 +9,8 @@ Note: The header requires
     • Content-Type  :   application/json
 
     User and Password set in ./config/config.json file
+
+    2 very basic and simple calls can be placed:
+    • first_10_todos
+    • where_id_5
+    • feel free to add more
